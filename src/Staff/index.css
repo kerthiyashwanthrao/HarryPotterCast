@@ -1,0 +1,60 @@
+
+.characterContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.characterBannerContainer{
+    display: flex;
+    flex-wrap: wrap;
+    height: 90vh;
+    justify-content: center;
+}
+.characterCard{
+    background-color:rgba(255,255,255,0.5);
+    margin: 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 700px;
+    min-width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align:center;
+}
+.loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.characterPara{
+    font-size: 16px;
+    font-family: cursive;
+}
+.inputBar{
+    margin-top: 80px;
+    width: 40%;
+    height: 40px;
+}
+.profilePic{
+    height: 130px;
+    width: 120px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+.profileImgContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border-width: 0px;
+    border-radius: 15px;
+    border-color: #ffffff;
+}

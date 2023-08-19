@@ -1,0 +1,8 @@
+.appContainer{
+    height: 100vh;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/932/891/825/hogwarts-legacy-video-games-dragon-owl-harry-potter-hd-wallpaper-preview.jpg");
+    background-size:contain;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}

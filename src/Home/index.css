@@ -1,0 +1,17 @@
+
+.homeContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vh;
+    height: 80vh;
+
+}
+
+.homePara{
+    color: aliceblue;
+    font-size: 22px;
+    font-family:cursive;
+   
+}

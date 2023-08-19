@@ -1,0 +1,24 @@
+.ulContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    text-decoration-line: none;
+}
+.lst{
+    list-style: none;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+}
+.headerContainer{
+    height: 10vh;
+    background-color: rgba(1,1,1,0.3);
+    position: fixed;
+    width: 100%;
+}
+
+.link{
+    text-decoration-line: none;
+}
